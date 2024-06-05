@@ -62,14 +62,14 @@ h3 {
 
 /*///// 3.1 Navigation bar /////*/
 
-    nav {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        flex: 0 0 100%;
-        height: 80px;
-        color: #FFF;
-        background-color: #030027;
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex: 0 0 100%;
+    height: 80px;
+    color: #FFF;
+    background-color: #030027;
     }
 
 h2 {
