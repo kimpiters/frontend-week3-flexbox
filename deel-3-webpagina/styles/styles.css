@@ -121,6 +121,7 @@ article {
     flex: 0 1 280px;
     height: 350px;
     background-color: #C16E70;
+    border-radius: 5px;
 }
 
 p {
