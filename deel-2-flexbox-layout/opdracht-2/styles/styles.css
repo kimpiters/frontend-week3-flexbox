@@ -1,1 +1,44 @@
 /*Schrijf hier jouw CSS*/
+
+body {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+}
+
+/**/
+nav {
+    flex: 0 0 20%;
+}
+
+/**/
+div {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 80%;
+}
+
+/****/
+header {
+    flex: 0 0 200px;
+
+}
+
+/****/
+main {
+    display: flex;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: calc(100vh - 400px);
+}
+
+/********/
+article {
+    height: 100%;
+    width: 100%;
+}
+
+/****/
+footer {
+    flex: 0 0 200px;
+}
